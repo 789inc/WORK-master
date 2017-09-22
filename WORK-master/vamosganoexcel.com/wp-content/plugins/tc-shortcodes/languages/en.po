@@ -1,0 +1,745 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: ThemeCube Shortcodes\n"
+"POT-Creation-Date: 2015-01-01 02:17+0200\n"
+"PO-Revision-Date: 2015-01-01 02:17+0200\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: en\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.8.7\n"
+"X-Poedit-Basepath: ..\n"
+"X-Poedit-WPHeader: themecube-shortcodes.php\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-KeywordsList: __;_e;_n:1,2;_x:1,2c;_ex:1,2c;_nx:4c,1,2;esc_attr__;"
+"esc_attr_e;esc_attr_x:1,2c;esc_html__;esc_html_e;esc_html_x:1,2c;"
+"_n_noop:1,2;_nx_noop:3c,1,2;__ngettext_noop:1,2\n"
+"X-Poedit-SearchPath-0: .\n"
+"X-Poedit-SearchPathExcluded-0: *.js\n"
+
+#: admin/post_type.php:9
+msgctxt "Post Type General Name"
+msgid "Speakers"
+msgstr ""
+
+#: admin/post_type.php:10
+msgctxt "Post Type Singular Name"
+msgid "Speaker"
+msgstr ""
+
+#: admin/post_type.php:11
+msgid "Speakers"
+msgstr ""
+
+#: admin/post_type.php:12
+msgid "Parent Speaker:"
+msgstr ""
+
+#: admin/post_type.php:13
+msgid "All Speakers"
+msgstr ""
+
+#: admin/post_type.php:14
+msgid "View Speaker"
+msgstr ""
+
+#: admin/post_type.php:15 admin/post_type.php:16
+msgid "Add New Speaker"
+msgstr ""
+
+#: admin/post_type.php:17
+msgid "Edit Speaker"
+msgstr ""
+
+#: admin/post_type.php:18
+msgid "Update Speaker"
+msgstr ""
+
+#: admin/post_type.php:19
+msgid "Search Speaker"
+msgstr ""
+
+#: admin/post_type.php:20
+msgid "Not speakers found"
+msgstr ""
+
+#: admin/post_type.php:21
+msgid "Not speakers found in Trash"
+msgstr ""
+
+#: admin/post_type.php:24
+msgid "speaker"
+msgstr ""
+
+#: admin/post_type.php:25 admin/post_type.php:74
+msgid "Post Type Description"
+msgstr ""
+
+#: admin/post_type.php:58
+msgctxt "Post Type General Name"
+msgid "Schedule"
+msgstr ""
+
+#: admin/post_type.php:59
+msgctxt "Post Type Singular Name"
+msgid "Program"
+msgstr ""
+
+#: admin/post_type.php:60 admin/tc_shortcode.php:819
+msgid "Schedule"
+msgstr ""
+
+#: admin/post_type.php:61
+msgid "Parent program:"
+msgstr ""
+
+#: admin/post_type.php:62
+msgid "All Programs"
+msgstr ""
+
+#: admin/post_type.php:63
+msgid "View Program"
+msgstr ""
+
+#: admin/post_type.php:64 admin/post_type.php:65
+msgid "Add New Program"
+msgstr ""
+
+#: admin/post_type.php:66
+msgid "Edit Program"
+msgstr ""
+
+#: admin/post_type.php:67
+msgid "Update Program"
+msgstr ""
+
+#: admin/post_type.php:68
+msgid "Search Program"
+msgstr ""
+
+#: admin/post_type.php:69
+msgid "Not Program found"
+msgstr ""
+
+#: admin/post_type.php:70
+msgid "Not Program found in Trash"
+msgstr ""
+
+#: admin/post_type.php:73
+msgid "program"
+msgstr ""
+
+#: admin/post_type.php:105 admin/post_type.php:106 admin/post_type.php:115
+#: admin/tc_shortcode.php:1361
+msgid "Date"
+msgstr ""
+
+#: admin/post_type.php:107
+msgid "Search Dates"
+msgstr ""
+
+#: admin/post_type.php:108
+msgid "All Dates"
+msgstr ""
+
+#: admin/post_type.php:109
+msgid "Parent Date"
+msgstr ""
+
+#: admin/post_type.php:110
+msgid "Parent Date:"
+msgstr ""
+
+#: admin/post_type.php:111
+msgid "Edit Date"
+msgstr ""
+
+#: admin/post_type.php:112
+msgid "Update Date"
+msgstr ""
+
+#: admin/post_type.php:113
+msgid "Add New Date"
+msgstr ""
+
+#: admin/post_type.php:114
+msgid "New Date Name"
+msgstr ""
+
+#: admin/post_type.php:136 admin/post_type.php:138
+msgid "Testimonials"
+msgstr ""
+
+#: admin/post_type.php:137 admin/post_type.php:139 admin/tc_shortcode.php:1118
+msgid "Testimonial"
+msgstr ""
+
+#: admin/post_type.php:140 admin/post_type.php:141
+msgid "Add New Testimonial"
+msgstr ""
+
+#: admin/post_type.php:142
+msgid "New Testimonial"
+msgstr ""
+
+#: admin/post_type.php:143
+msgid "Edit Testimonial"
+msgstr ""
+
+#: admin/post_type.php:144
+msgid "View Testimonial"
+msgstr ""
+
+#: admin/post_type.php:145
+msgid "All Testimonials"
+msgstr ""
+
+#: admin/post_type.php:146
+msgid "Search Testimonials"
+msgstr ""
+
+#: admin/post_type.php:147
+msgid "Parent Testimonials:"
+msgstr ""
+
+#: admin/post_type.php:148
+msgid "No Testimonials found."
+msgstr ""
+
+#: admin/post_type.php:149
+msgid "No Testimonials found in Trash."
+msgstr ""
+
+#: admin/post_type.php:176 admin/post_type.php:178
+msgid "FAQs"
+msgstr ""
+
+#: admin/post_type.php:177 admin/post_type.php:179
+msgid "FAQ"
+msgstr ""
+
+#: admin/post_type.php:180 admin/post_type.php:181
+msgid "Add New Question"
+msgstr ""
+
+#: admin/post_type.php:182
+msgid "New Question"
+msgstr ""
+
+#: admin/post_type.php:183
+msgid "Edit Question"
+msgstr ""
+
+#: admin/post_type.php:184
+msgid "View Question"
+msgstr ""
+
+#: admin/post_type.php:185
+msgid "All Questions"
+msgstr ""
+
+#: admin/post_type.php:186
+msgid "Search Questions"
+msgstr ""
+
+#: admin/post_type.php:187
+msgid "Parent Questions:"
+msgstr ""
+
+#: admin/post_type.php:188
+msgid "No Question found."
+msgstr ""
+
+#: admin/post_type.php:189
+msgid "No Questions found in Trash."
+msgstr ""
+
+#: admin/tc_shortcode.php:66
+msgid "Speakers List"
+msgstr ""
+
+#. Plugin Name of the plugin/theme
+#: admin/tc_shortcode.php:69 admin/tc_shortcode.php:139
+#: admin/tc_shortcode.php:270 admin/tc_shortcode.php:399
+#: admin/tc_shortcode.php:494 admin/tc_shortcode.php:594
+#: admin/tc_shortcode.php:650 admin/tc_shortcode.php:822
+#: admin/tc_shortcode.php:916 admin/tc_shortcode.php:961
+#: admin/tc_shortcode.php:1121 admin/tc_shortcode.php:1223
+#: admin/tc_shortcode.php:1353 admin/tc_shortcode.php:1464
+#: admin/tc_shortcode.php:1536 admin/tc_shortcode.php:1648
+msgid "ThemeCube Shortcodes"
+msgstr ""
+
+#: admin/tc_shortcode.php:71
+msgid "Add speakers layout"
+msgstr ""
+
+#: admin/tc_shortcode.php:77
+msgid "class "
+msgstr ""
+
+#: admin/tc_shortcode.php:80
+msgid "Other Options in: Eventr Options > Speakers settings"
+msgstr ""
+
+#: admin/tc_shortcode.php:86
+msgid "Filter by tag"
+msgstr ""
+
+#: admin/tc_shortcode.php:89
+msgid "Such as speaker, chair, keynote"
+msgstr ""
+
+#: admin/tc_shortcode.php:136
+msgid "Button"
+msgstr ""
+
+#: admin/tc_shortcode.php:141
+msgid "Add button"
+msgstr ""
+
+#: admin/tc_shortcode.php:146 admin/tc_shortcode.php:284
+msgid "Button Size"
+msgstr ""
+
+#: admin/tc_shortcode.php:149 admin/tc_shortcode.php:287
+msgid "xsmall"
+msgstr ""
+
+#: admin/tc_shortcode.php:150 admin/tc_shortcode.php:288
+msgid "small"
+msgstr ""
+
+#: admin/tc_shortcode.php:151 admin/tc_shortcode.php:289
+msgid "medium"
+msgstr ""
+
+#: admin/tc_shortcode.php:152 admin/tc_shortcode.php:290
+msgid "big"
+msgstr ""
+
+#: admin/tc_shortcode.php:158 admin/tc_shortcode.php:296
+msgid "Style"
+msgstr ""
+
+#: admin/tc_shortcode.php:161 admin/tc_shortcode.php:299
+msgid "light"
+msgstr ""
+
+#: admin/tc_shortcode.php:162 admin/tc_shortcode.php:300
+msgid "dark"
+msgstr ""
+
+#: admin/tc_shortcode.php:168 admin/tc_shortcode.php:306
+#: admin/tc_shortcode.php:427
+msgid "Position"
+msgstr ""
+
+#: admin/tc_shortcode.php:171 admin/tc_shortcode.php:309
+#: admin/tc_shortcode.php:432 admin/tc_shortcode.php:543
+msgid "center"
+msgstr ""
+
+#: admin/tc_shortcode.php:172 admin/tc_shortcode.php:310
+#: admin/tc_shortcode.php:430 admin/tc_shortcode.php:544
+msgid "left"
+msgstr ""
+
+#: admin/tc_shortcode.php:173 admin/tc_shortcode.php:311
+#: admin/tc_shortcode.php:431 admin/tc_shortcode.php:545
+msgid "right"
+msgstr ""
+
+#: admin/tc_shortcode.php:180
+msgid "Href"
+msgstr ""
+
+#: admin/tc_shortcode.php:187
+msgid "Open link in new window"
+msgstr ""
+
+#: admin/tc_shortcode.php:190
+msgid "yes"
+msgstr ""
+
+#: admin/tc_shortcode.php:191
+msgid "no"
+msgstr ""
+
+#: admin/tc_shortcode.php:198 admin/tc_shortcode.php:602
+#: admin/tc_shortcode.php:830 admin/tc_shortcode.php:991
+#: admin/tc_shortcode.php:1129
+msgid "Class"
+msgstr ""
+
+#: admin/tc_shortcode.php:206 admin/tc_shortcode.php:340
+#: admin/tc_shortcode.php:532 admin/tc_shortcode.php:1566
+msgid "Content"
+msgstr ""
+
+#: admin/tc_shortcode.php:267
+msgid "Modal Box"
+msgstr ""
+
+#: admin/tc_shortcode.php:272
+msgid "Add modal box"
+msgstr ""
+
+#: admin/tc_shortcode.php:277
+msgid "Modal ID"
+msgstr ""
+
+#: admin/tc_shortcode.php:317
+msgid "Form title"
+msgstr ""
+
+#: admin/tc_shortcode.php:324
+msgid "Form description"
+msgstr ""
+
+#: admin/tc_shortcode.php:332 admin/tc_shortcode.php:1721
+msgid "Button text"
+msgstr ""
+
+#: admin/tc_shortcode.php:396 admin/tc_shortcode.php:1656
+msgid "Header"
+msgstr ""
+
+#: admin/tc_shortcode.php:401
+msgid "Add custom header"
+msgstr ""
+
+#: admin/tc_shortcode.php:407 admin/tc_shortcode.php:502
+msgid "Title"
+msgstr ""
+
+#: admin/tc_shortcode.php:413
+msgid "Element tag"
+msgstr ""
+
+#: admin/tc_shortcode.php:438
+msgid "Text color"
+msgstr ""
+
+#: admin/tc_shortcode.php:441
+msgid "Choose text color"
+msgstr ""
+
+#: admin/tc_shortcode.php:446 admin/tc_shortcode.php:1664
+msgid "Subtitle"
+msgstr ""
+
+#: admin/tc_shortcode.php:452
+msgid "Subtitle color"
+msgstr ""
+
+#: admin/tc_shortcode.php:455
+msgid "Choose Subtitle color"
+msgstr ""
+
+#: admin/tc_shortcode.php:492
+msgid "Feature"
+msgstr ""
+
+#: admin/tc_shortcode.php:496
+msgid "Add an infobox to site"
+msgstr ""
+
+#: admin/tc_shortcode.php:509
+msgid "Title Color"
+msgstr ""
+
+#: admin/tc_shortcode.php:516 admin/tc_shortcode.php:657
+msgid "Iconfont"
+msgstr ""
+
+#: admin/tc_shortcode.php:519 admin/tc_shortcode.php:660
+msgid "Insert from Stroke 7 Icon Font."
+msgstr ""
+
+#: admin/tc_shortcode.php:524
+msgid "Icon Color"
+msgstr ""
+
+#: admin/tc_shortcode.php:540
+msgid "Alignment"
+msgstr ""
+
+#: admin/tc_shortcode.php:592
+msgid "ThemeCube Gallery"
+msgstr ""
+
+#: admin/tc_shortcode.php:596
+msgid "Add custom gallery"
+msgstr ""
+
+#: admin/tc_shortcode.php:610
+msgid "Images"
+msgstr ""
+
+#: admin/tc_shortcode.php:648
+msgid "Funfact"
+msgstr ""
+
+#: admin/tc_shortcode.php:652
+msgid "Add fun facts"
+msgstr ""
+
+#: admin/tc_shortcode.php:666
+msgid "Counter"
+msgstr ""
+
+#: admin/tc_shortcode.php:674
+msgid "Counter title"
+msgstr ""
+
+#: admin/tc_shortcode.php:824
+msgid "Add schedule layout"
+msgstr ""
+
+#: admin/tc_shortcode.php:910
+msgid "Carousel"
+msgstr ""
+
+#: admin/tc_shortcode.php:918
+msgid "Add carousel"
+msgstr ""
+
+#: admin/tc_shortcode.php:924
+msgid "ID"
+msgstr ""
+
+#: admin/tc_shortcode.php:931
+msgid "Slide Count"
+msgstr ""
+
+#: admin/tc_shortcode.php:938
+msgid "Autoplay"
+msgstr ""
+
+#: admin/tc_shortcode.php:941
+msgid "Autoplay: true, false or ex. 3000"
+msgstr ""
+
+#: admin/tc_shortcode.php:946
+msgid "Single Item"
+msgstr ""
+
+#: admin/tc_shortcode.php:949
+msgid "Single item: true or false"
+msgstr ""
+
+#: admin/tc_shortcode.php:956
+msgid "sponsor"
+msgstr ""
+
+#: admin/tc_shortcode.php:963
+msgid "Add a sponsor"
+msgstr ""
+
+#: admin/tc_shortcode.php:969
+msgid "Path of image"
+msgstr ""
+
+#: admin/tc_shortcode.php:976
+msgid "Link for image"
+msgstr ""
+
+#: admin/tc_shortcode.php:983
+msgid "Alt"
+msgstr ""
+
+#: admin/tc_shortcode.php:986
+msgid "alt"
+msgstr ""
+
+#: admin/tc_shortcode.php:1123
+msgid "Add testimonials layout"
+msgstr ""
+
+#: admin/tc_shortcode.php:1201
+msgid "details"
+msgstr ""
+
+#: admin/tc_shortcode.php:1218
+msgid "Hotel"
+msgstr ""
+
+#: admin/tc_shortcode.php:1225
+msgid "Add hotel"
+msgstr ""
+
+#: admin/tc_shortcode.php:1231
+msgid "Hotel name"
+msgstr ""
+
+#: admin/tc_shortcode.php:1239
+msgid "Description"
+msgstr ""
+
+#: admin/tc_shortcode.php:1247
+msgid "Hotel website link"
+msgstr ""
+
+#: admin/tc_shortcode.php:1255
+msgid "Hotel rating"
+msgstr ""
+
+#: admin/tc_shortcode.php:1270
+msgid "Hotel image"
+msgstr ""
+
+#: admin/tc_shortcode.php:1273
+msgid "the best 809x500"
+msgstr ""
+
+#: admin/tc_shortcode.php:1350
+msgid "Countdown"
+msgstr ""
+
+#: admin/tc_shortcode.php:1355
+msgid "Add countdown timer"
+msgstr ""
+
+#: admin/tc_shortcode.php:1364
+msgid "Please enter a date like this format 2020/12/18 00:00:00"
+msgstr ""
+
+#: admin/tc_shortcode.php:1369
+msgid "Days field label"
+msgstr ""
+
+#: admin/tc_shortcode.php:1376
+msgid "Hours field label"
+msgstr ""
+
+#: admin/tc_shortcode.php:1383
+msgid "Minutes field label"
+msgstr ""
+
+#: admin/tc_shortcode.php:1390
+msgid "Seconds field label"
+msgstr ""
+
+#: admin/tc_shortcode.php:1461
+msgid "Custom Google Map"
+msgstr ""
+
+#: admin/tc_shortcode.php:1466
+msgid "Add google map"
+msgstr ""
+
+#: admin/tc_shortcode.php:1472
+msgid "Map ID"
+msgstr ""
+
+#: admin/tc_shortcode.php:1481
+msgid "Map Height"
+msgstr ""
+
+#: admin/tc_shortcode.php:1484
+msgid "Ex. 230px"
+msgstr ""
+
+#: admin/tc_shortcode.php:1531
+msgid "Price table"
+msgstr ""
+
+#: admin/tc_shortcode.php:1538
+msgid "Add price table"
+msgstr ""
+
+#: admin/tc_shortcode.php:1544
+msgid "Type"
+msgstr ""
+
+#: admin/tc_shortcode.php:1552
+msgid "Price"
+msgstr ""
+
+#: admin/tc_shortcode.php:1559
+msgid "Background Icon"
+msgstr ""
+
+#: admin/tc_shortcode.php:1573
+msgid "Background Color"
+msgstr ""
+
+#: admin/tc_shortcode.php:1645
+msgid "Venue Information"
+msgstr ""
+
+#: admin/tc_shortcode.php:1650
+msgid "Add venue layout"
+msgstr ""
+
+#: admin/tc_shortcode.php:1659
+msgid "Section header"
+msgstr ""
+
+#: admin/tc_shortcode.php:1672
+msgid "Venue"
+msgstr ""
+
+#: admin/tc_shortcode.php:1675
+msgid "Enter venue name"
+msgstr ""
+
+#: admin/tc_shortcode.php:1681
+msgid "Venue logo"
+msgstr ""
+
+#: admin/tc_shortcode.php:1688
+msgid "Address Icon"
+msgstr ""
+
+#: admin/tc_shortcode.php:1691
+msgid "Insert from Stroke 7 Icon Font"
+msgstr ""
+
+#: admin/tc_shortcode.php:1696
+msgid "Address Header"
+msgstr ""
+
+#: admin/tc_shortcode.php:1704
+msgid "Address"
+msgstr ""
+
+#: admin/tc_shortcode.php:1707
+msgid "Enter the venue address"
+msgstr ""
+
+#: admin/tc_shortcode.php:1713
+msgid "Venue Link"
+msgstr ""
+
+#: admin/tc_shortcode.php:1716
+msgid "Enter the venue website link"
+msgstr ""
+
+#: admin/tc_shortcode.php:1727
+msgid "Css"
+msgstr ""
+
+#: admin/tc_shortcode.php:1729
+msgid "Design options"
+msgstr ""
+
+#. Plugin URI of the plugin/theme
+msgid "http://themecube.net"
+msgstr ""
+
+#. Description of the plugin/theme
+msgid "Eventr Wordpress Theme shortcodes"
+msgstr ""
+
+#. Author of the plugin/theme
+msgid "themecube"
+msgstr ""
+
+#. Author URI of the plugin/theme
+msgid "http://themeforest.net/user/themecube"
+msgstr ""

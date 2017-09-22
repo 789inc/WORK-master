@@ -1,0 +1,12 @@
+/*
+Theme Name: Eventr Child Theme
+Theme URI: http://www.themecube.net
+Description: This is child theme of Eventr
+Author: ThemeCube
+Author URI: http://www.themecube.net
+Template: eventr
+Version: 1.0
+Text Domain:  eventr-child
+*/
+@import url("../eventr/style.css");
+
